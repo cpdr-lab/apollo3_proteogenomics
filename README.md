@@ -1,5 +1,5 @@
 # APOLLO3 Proteogenomics
-_This code repository is designed to reproduce the APOLLO3 - Proteogenomics Study analyses described in Schafer et al. 2026 _
+_This code repository is designed to reproduce the APOLLO3 - Proteogenomics Study analyses described in Schafer et al. 2026_
 
 ### Citation
 Schafer et al. 2026 [bioRxiv preprint](https://doi.org/10.1101/2025.11.28.691220) 
